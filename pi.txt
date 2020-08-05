@@ -1,0 +1,7 @@
+	            Instructions 
+	     - Use 'W'/'Space' key to make the bot jump. 
+	     - Use 'S'/'C' key to make the bot crouch. 
+	     - Use 'D' key to move the bot towards right.
+	     - Use 'A' key to move the bot towards Left. 
+	     - Use key 'Q' for exiting the Game. 
+	     - Use key 'P' to pause the game. 
